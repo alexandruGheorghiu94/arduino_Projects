@@ -12,4 +12,4 @@ Parts needed for this project:
 * Electrical tape
 
 ## Wiring everything up
-![](images/img1.jpg?raw=true "img1"
+![](/images/img1.jpg?raw=true "img1"
