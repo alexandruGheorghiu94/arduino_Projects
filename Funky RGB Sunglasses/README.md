@@ -11,6 +11,6 @@ Parts needed for this project:
 * Wires
 * Electrical tape
 
-## test
-sdklhgaskdjfs
+## Wiring everything up
+
 
