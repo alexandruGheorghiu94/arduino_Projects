@@ -16,3 +16,6 @@ Parts needed for this project:
 Some thing to take in consideration here:
 * The editor used for creating this schematic didn't had the charger module, so each note represents a connector on the board
 * Also the LED rings arent the ones in the schematic, but the wiring is the same. Insteand of PWR, GND and IN pins that are in the schematic, on the LED rings used in this project they are 5V, GND and DI.
+
+
+To be continued...
