@@ -1,5 +1,6 @@
 Funky RGB Sunglasses
 ========
+Final product: https://youtu.be/z92aKArIsvc
 
 Parts needed for this project:
 * [2x LED RGB Rings](https://www.aliexpress.com/item/Hot-Sale-LED-Ring-16x-WS2812B-5050-RGB-With-Integrated-Drivers/32730790185.html?spm=2114.13010608.0.0.dabDfM)
